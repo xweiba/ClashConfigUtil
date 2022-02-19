@@ -36,8 +36,6 @@ proxies-ignore-first-counts:
   - 3 # 忽略第二个节点文件或订阅链接的 `proxies` 前3个节点。
 ```
 
-忽略默认的
-
 生成的配置文件名称：`config.yaml`。
 
 生成默认的 3 个 `proxy-groups`：
